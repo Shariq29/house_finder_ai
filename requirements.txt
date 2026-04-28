@@ -1,0 +1,5 @@
+pandas
+gradio
+google.generativeai
+llama_index.embeddings.huggingface
+sentence-transformers
